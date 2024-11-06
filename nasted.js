@@ -1,4 +1,4 @@
-const money =-20;
+const money =20;
 if (money > 300)
 {
     console.log("bro you are rich");
